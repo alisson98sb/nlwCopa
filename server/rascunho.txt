@@ -1,0 +1,1 @@
+// model= Como chamamos uma tabela no prisma pois o prisma trabalha com varias linguaguem de db
